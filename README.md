@@ -4,8 +4,7 @@ CS Cha circumbinary disk as observed by ALMA Band 7 (345GHz) during ALMA cycle 5
 The project initially aimed to search for the millimeter emission from CSCha B, which was undetected. The dataset, however, contains one of the deepest observations towards a circumbinary disk.
 
 These datasets are presented in Kurtovic et al. (2022) \
-https://arxiv.org/abs/2012.02225
-
+https://arxiv.org/abs/2206.04427
 
 ![CSCha dust continuum emission](https://github.com/nicokurtovic/CSCha_ALMA_2017.1.00969.S/blob/main/CSCha_web.png)
 
